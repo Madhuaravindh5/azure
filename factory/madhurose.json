@@ -1,0 +1,9 @@
+{
+	"name": "madhurose",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1345838a-7724-4fd8-a130-e40c3cab00da",
+		"tenantId": "14928f12-c0d7-47e6-994e-ff86624fb745"
+	}
+}
